@@ -3,7 +3,7 @@
 This project demonstrates the use of a Netflix OSS with Spring Cloud on Heroku. 
 It defines a trivial service and registers that service with a Eureka server.
 
-Before using this project, you must have a [Eureka Server](https://github.com/sunilsoni/heroku-eureka-server-demo) deployed.
+Before using this project, you must have a [Eureka Server](https://github.com/kissaten/heroku-eureka-server-demo) deployed.
 
 ## Quickstart
 
@@ -19,7 +19,7 @@ toolbelt installed.
 Once the Eureka Server is running, clone this project (the client) and move into it's root directory.
                                    
 ```
-$ git clone git@github.com:sunilsoni/heroku-eureka-client-demo.git
+$ git clone git@github.com:kissaten/heroku-eureka-client-demo.git
 $ cd heroku-eureka-demo/
 ```
 
